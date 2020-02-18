@@ -7,5 +7,4 @@ This program does nothing more but push a key on your keyboard.
 I cant gurantee you wont get banned, but should be fine.
 
 Contains background notify, So you can easily see it running, Customizable timer for pushing button on keybaord, remains in foreground when set to on.
-
-![Image](https://yuvi.app/images/github/yu-aawowc.JPG)
+![Image](https://yuvi.app/images/github/yu-aawowc1.JPG)
