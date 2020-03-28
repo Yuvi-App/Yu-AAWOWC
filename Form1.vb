@@ -163,7 +163,7 @@ Public Class Form1
                 SendKeys.SendWait("{M}")
                 Thread.Sleep(1000)
                 SendKeys.SendWait("{M}")
-                Current = 10
+                Current = nudActionCD.Value
                 NotifyIcon1.ShowBalloonTip(1000, "Anti-AFK WoW Classic", "AFK Mode Action Taken, AFK模式采取的措施", ToolTipIcon.Info)
             End If
         ElseIf boolAFKRunning = False Then
